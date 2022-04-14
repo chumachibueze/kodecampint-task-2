@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kodecampint-task-2/static/css/main.2e710a45.css",
+    "main.js": "/kodecampint-task-2/static/js/main.17136a2e.js",
+    "static/js/787.77d37eee.chunk.js": "/kodecampint-task-2/static/js/787.77d37eee.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/kodecampint-task-2/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/kodecampint-task-2/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/kodecampint-task-2/index.html",
+    "main.2e710a45.css.map": "/kodecampint-task-2/static/css/main.2e710a45.css.map",
+    "main.17136a2e.js.map": "/kodecampint-task-2/static/js/main.17136a2e.js.map",
+    "787.77d37eee.chunk.js.map": "/kodecampint-task-2/static/js/787.77d37eee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e710a45.css",
+    "static/js/main.17136a2e.js"
+  ]
+}
